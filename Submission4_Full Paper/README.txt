@@ -6,6 +6,8 @@ Conference Link: https://smartcomp.isis.vanderbilt.edu/cfp/?fbclid=IwAR2zmWhxFrw
 
 Conference Submission Date: 2 - March - 2023 
 
+Full paper Presentation Link: https://www.youtube.com/watch?v=IQoP0bMZNZc
+
 Group Number:
 17
 
