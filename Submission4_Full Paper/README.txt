@@ -1,10 +1,10 @@
 Paper Title: BiLSTM-ANN Based Employee Job Satisfaction Analysis From Glassdoor Data Using Web Scraping
                                                       
-Conference Name: SMARTCOMP 2023  
+Conference Name: IJCNN 2023  
 
-Conference Link: https://smartcomp.isis.vanderbilt.edu/cfp/?fbclid=IwAR2zmWhxFrw9OC4b-DKwUqyZpbQEZyr8rrbU_Egbkyr1T13gRze_m1qThWQ  
+Conference Link: https://2023.ijcnn.org/
 
-Conference Submission Date: 2 - March - 2023 
+Conference Submission Date: 21 - December - 2023 
 
 Full paper Presentation Link: https://www.youtube.com/watch?v=IQoP0bMZNZc
 
